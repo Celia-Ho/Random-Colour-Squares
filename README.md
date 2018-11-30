@@ -1,4 +1,4 @@
-# Is Star Wars Out Yet?
+# Random Colour Squares
 
 This single-serving site built with PHP displays squares with randomized colours every time the browser is refreshed.
 
