@@ -1,3 +1,5 @@
+<!-- Random Colour Squares -->
+
 <?php
   $colors = array('red', 'green', 'blue', 'black', 'white', 'purple', 'orange', 'yellow','pink', 'gray', 'brown', 'skyblue');
   // $colors = array('#FF0000', '#00FF00', '#0000FF', '#000000', '#FFFFFF', '#F0F0F0', ...);  // Hex values
